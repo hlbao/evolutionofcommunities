@@ -6,3 +6,5 @@ Notice some tips:
 (A) A row for each legislator in this chamber
 (B) A column for each bill introduced (not just voted on) during these two sessions
 (C) Each cell should contain the date that the row legislator sponsored the column bill, or should be blank if the row legislator did not sponsor the column bill.
+
+3. For the structural evolution, each community is initialized as a small world. The generation algorothm is written in Matlab (see WSgeneration.m). There are three main perematers, 
