@@ -7,4 +7,4 @@ Notice some tips:
 (B) A column for each bill introduced (not just voted on) during these two sessions
 (C) Each cell should contain the date that the row legislator sponsored the column bill, or should be blank if the row legislator did not sponsor the column bill.
 
-3. For the structural evolution, each community is initialized as a small world. The generation algorothm is written in Matlab (see WSgeneration.m). There are three main perematers, 
+3. For the structural evolution, each community is initialized as a small world. The generation algorithm is written in Matlab (see WSgeneration.m). There are three main parameters, N nodes, mean node degree 2*K, and rewiring probability beta, respectively. It can be choose according to different situations. The example to illustrate model could refer the original paper.
