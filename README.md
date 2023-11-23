@@ -1,4 +1,5 @@
-# evolution of social communities: an agent-based approach
+# sponsorship and co-sponsorship of House bills
+
 Note:
 1. This data set collects the long-term sponsorship and co-sponsorship behaviors on House bills among senators. It was initially built for the empirical study aligned with the research on the coevolution of social communities and behaviors working with Zachary Neal and Wolfgang Banzhaf. Created by Honglin Bao, 2019 summer. It is also a part of our NSF funding application (Link: https://www.dropbox.com/s/0hzj22s53ca9oqi/NEAL_BANZHAF_BEACON11.pdf?dl=0) serving as a prior basis. We release this data set to the public for research/education use.
 
